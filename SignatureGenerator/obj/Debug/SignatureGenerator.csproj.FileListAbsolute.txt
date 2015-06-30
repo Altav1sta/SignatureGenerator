@@ -1,0 +1,6 @@
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\bin\Debug\SignatureGenerator.exe.config
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\bin\Debug\SignatureGenerator.exe
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\bin\Debug\SignatureGenerator.pdb
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\obj\Debug\SignatureGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\obj\Debug\SignatureGenerator.exe
+C:\Users\Altav1sta\Dropbox\Veeam\SignatureGenerator\SignatureGenerator\obj\Debug\SignatureGenerator.pdb
